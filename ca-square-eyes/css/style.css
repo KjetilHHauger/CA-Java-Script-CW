@@ -27,3 +27,20 @@ ul.navbar {
     background-color: #ddd;
     color: black;
 }
+
+.checkoutImg {
+    width: 15vw;
+}
+
+#movie-list {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+ }
+
+#movie-list img {
+    width: 30vw;
+}
+#product-details img {
+    width: 40vw;
+}
