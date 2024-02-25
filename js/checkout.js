@@ -28,7 +28,7 @@ function renderCart() {
 
 }
 pay.addEventListener("click", () => {
-    location.href = "../html/confirmation.html";
+    location.href = "confirmation.html";
 })
 renderCart()
 cart()
